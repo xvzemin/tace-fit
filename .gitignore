@@ -16,8 +16,6 @@
 *.zip
 *.gz
 *.whl
-*.xyz
-*.extxyz
 
 # Ignore all dir
 .idea/
@@ -48,5 +46,4 @@ openmm/
 # White list
 !arch.png
 !requirements.txt
-!BaTiO3.xyz
-!C10H2+C10H3.xyz
+
